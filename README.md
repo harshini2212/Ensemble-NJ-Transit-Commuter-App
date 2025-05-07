@@ -30,8 +30,8 @@ The project is named after our **ensemble modeling approach**, which powers our 
 | Backend      | Python (Flask), Flask-Restful|
 | Database     | PostgreSQL                   |
 | ML Modeling  | Scikit-learn, Keras (TensorFlow backend) |
-| Deployment   | Docker, Heroku (API), Netlify (Frontend) |
-| APIs         | NJ Transit GTFS Realtime, Google Maps API |
+| Deployment   | Docker |
+| APIs         | NJ Transit GTFS Realtime |
 
 ---
 
